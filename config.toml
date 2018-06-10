@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Venture Educational Collaborative"
+[params]
+tagline = "Think Big, Think Innovatively!"
+about = "Venture Educational Collaborative is an interdisciplinary team of school leaders and teachers."
