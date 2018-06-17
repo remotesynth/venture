@@ -14,6 +14,8 @@ Bill brings expertise in school and program design.
 
 <br style="clear:both;">
 
+## Consultants
+
 <img src="/images/claudia.jpg" alt="Claudia" style="float:left;margin-right:10px;">
 
 Claudia, focuses on teacher preparation, coaching, and professional development, especially in areas of Special Education and English Language Learning.
@@ -26,19 +28,19 @@ Jim, brings visionary leadership, coaching, and partnership development in a tho
 
 <br style="clear:both;">
  
-### Vision
+## Vision
 
 We work with clients to realize and define a future vision for their work. We believe that ineffective implementation grows out of underlying disagreement in the future vision. Through this visioning work, we push clients to wrestle with the student experience and external demands.
  
-### New Direction
+## New Direction
 
 Any new direction must be defined down to the level of student experience and made tangible through clear definitions of success.
  
-### Student experience
+## Student experience
 
 All of our work begins from a close examination of the student experience within existing
 or designed learning environments. We see this as essential to yielding results
 for any project that will make a true difference in preparation for college,
 career, and citizenship.
  
-Contact us today!
+[Contact us today!](mailto:bill@ventureedcollaborative.org)
