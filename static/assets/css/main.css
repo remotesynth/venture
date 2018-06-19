@@ -3394,6 +3394,11 @@
 					top: 0;
 				}
 
+				#banner .content header .about {
+					max-width:520px;
+					font-size: 22px;
+				}
+
 			#banner .content .image {
 				/* border-radius: 100%; */
 				display: inline-block;
