@@ -25,11 +25,11 @@
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>VEC is an interdisciplinary team of school leaders and teachers providing a range of consulting services to schools and colleges. Bill, Claudia, and Jim each approach their work with a common sense of purpose but very different experience. We work with educational innovators to ensure that new models of schooling sustain student learning in a fluid, changing world.
+									{{ with .Site.GetPage "home/whoweareleft.md" }}{{ .Content }}{{ end }}
 									</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>We help build innovative programs, through responsive, student-centered design. Representing broad experience teaching and leading schools and colleges from elementary through graduate school, our team works with institutions to build programs rooted in their vision for student learning, informed by a close examination of the student experience.</p>
+									{{ with .Site.GetPage "home/whoweareright.md" }}{{ .Content }}{{ end }}
 									<ul class="actions">
 										<li><a href="/about" class="button">Learn More</a></li>
 									</ul>
