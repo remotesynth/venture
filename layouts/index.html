@@ -45,9 +45,9 @@
 					<span class="image fit main"><img src="/images/classroom-full.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<p style="color:#5480f1">How do schools and colleges prepare students for successful careers and citizenship?</p>
+							<p style="color:#5480f1">{{ with .Site.GetPage "home/homespotlight1.md" }}{{ .Title }}{{ end }}</p>
 						</header>
-						<p>Democracy requires informed and active citizens who view difference as a source of strength, leading to new and more developed ideas. Schools and colleges should prepare young people to make the important decisions of a citizen by creating opportunities for meaningful agency on the part of the student. We help guide this work by promoting research-based educational approaches that use project-focused, collaborative pedagogy, that is culturally and linguistically response and informed by data. The results produce engaged innovative leaders, responsive educators, and engaged students ready for future careers.</p>
+						{{ with .Site.GetPage "home/homespotlight1.md" }}{{ .Content }}{{ end }}
 						<!--<ul class="actions">
 							<li><a href="/about" class="button">Learn More</a></li>
 						</ul>-->
@@ -60,9 +60,9 @@
 					<span class="image fit main bottom"><img src="images/pencil-notebook.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<p style="color:#39c088">How are curricular design and the student/teacher relationship connected?</p>
+							<p style="color:#39c088">{{ with .Site.GetPage "home/homespotlight2.md" }}{{ .Title }}{{ end }}</p>
 						</header>
-						<p>We believe that curriculum design should be paired with thoughtful design of the leader/faculty and teacher/student relationship. The school is an inhabited world. The experience of this environment defines and shapes the habits and competencies that are valued. We work with schools to re-define these relationships away from a relationship of control toward one of mutual ownership of learning. How leaders co-develop a culture and how they view the ongoing development of individuals and the organization are key to student engagement. How students and teachers interact must be understood as part of the fabric of a curriculum and its learning objectives. A productive learning relationship at all levels is built around an understanding of each student and how they engage with curricular content and the surrounding environment that leads to learning. </p>
+						{{ with .Site.GetPage "home/homespotlight2.md" }}{{ .Content }}{{ end }}
 						<!--<ul class="actions">
 							<li><a href="/about" class="button">Learn More</a></li>
 						</ul>-->
@@ -75,9 +75,9 @@
 				<span class="image fit main"><img src="/images/library.jpg" alt="" /></span>
 				<div class="content">
 					<header>
-						<p style="color:#5480f1">How do schools and colleges prepare students for success in a constantly changing world?</p>
+						<p style="color:#5480f1">{{ with .Site.GetPage "home/homespotlight3.md" }}{{ .Title }}{{ end }}</p>
 					</header>
-					<p>We live in an increasingly diverse world with evolving definitions of expertise and success. One that has ever evolving jobs, some yet to be known.  Schools and colleges at all levels must redesign their fundamental approach to learning to prepare students for professional success and personal well-being in a changing landscape.</p>
+					<p>{{ with .Site.GetPage "home/homespotlight3.md" }}{{ .Content }}{{ end }}</p>
 					<ul class="actions">
 						<li><a href="/about" class="button">Learn More</a></li>
 					</ul>
