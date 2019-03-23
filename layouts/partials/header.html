@@ -5,7 +5,7 @@
     <ul>
       <li><a href="/index.html">Home</a></li>
     {{ range where .Site.Pages "Section" "" }}
-      {{ if eq .Kind "page" }}
+      {{ if and (eq .Kind "page") (eq .Params.InNav true) }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     {{ end }}

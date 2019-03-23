@@ -1,6 +1,7 @@
 ---
 title: "About Us"
 date: 2018-06-06T18:52:51-04:00
+inNav: true
 draft: false
 ---
 
