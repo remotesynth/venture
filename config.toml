@@ -4,3 +4,8 @@ title = "Venture Educational Collaborative"
 [params]
 tagline = "Think Big, Think Innovatively!"
 about = "Venture Educational Collaborative is an interdisciplinary team of school leaders and teachers."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

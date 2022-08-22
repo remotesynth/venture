@@ -4,4 +4,6 @@ date: 2018-06-06T18:52:51-04:00
 draft: false
 ---
 
-VEC is an interdisciplinary team of school leaders and teachers providing a range of consulting services to schools and colleges. Bill, Claudia, and Jim each approach their work with a common sense of purpose but very different experience. We work with educational innovators to ensure that new models of schooling sustain student learning in a fluid, changing world.
+We live in diverse world with evolving definitions of expertise and success. Schools and colleges at all levels must employ curricular design and teaching methods that help students move toward professional success and personal well-being in a constantly changing environment. We offer professional development to educational institutions that is guided by evidence-based practices that foster mutual understanding and achievement of organizational objectives. We also conduct applied research in support of the development and fulfillment of institutional goals – with special attention to examinations of the student experience and social relationships among all members of educational organizations.
+
+We support creating education educational environments that cultivate the flexibility of mind needed for success in a fluid, changing world.
